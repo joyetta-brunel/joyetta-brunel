@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on predictive modelling for educational data analytics. 
 - 📫 How to reach me - GitHub
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I like limes! 
+- ⚡  
 
 <!---
 joyetta-brunel/joyetta-brunel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
